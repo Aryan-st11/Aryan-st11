@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Aryan Choudhary
 
-<!--
-**Aryan-st11/Aryan-st11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech CSE (IoT) Student  
+ Open Source & Web Development Enthusiast  
+ GSoC 2026 Aspirant  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a Computer Science undergraduate with a strong interest in **open-source development** and **problem-solving**.  
+I enjoy building web-based projects and contributing to collaborative software that makes a real-world impact.
+
+Currently, I am:
+- Preparing for **Google Summer of Code 2026**
+- Strengthening my skills in **JavaScript & Python**
+- Exploring open-source communities and codebases
+
+---
+
+##  Tech Stack
+- **Languages:** JavaScript, Python, C++
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** Open Source workflows, advanced JavaScript
+
+---
+
+##  Open Source Goals
+- Make consistent contributions to open-source projects
+- Collaborate with global developer communities
+- Get selected as a **GSoC 2026 Contributor**
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-st11&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Aryan-st11
+- Email: choudharyatat08@gmail.com
+  
+---
+
+ *Always eager to learn, build, and contribute!*
