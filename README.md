@@ -33,7 +33,7 @@ Currently, I am:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-st11&show_icons=true&theme=default)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-st11&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
