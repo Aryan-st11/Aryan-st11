@@ -32,11 +32,6 @@ Currently, I am:
 
 ---
 
-## 📊 GitHub Stats
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-st11&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
 ##  Connect With Me
 - GitHub: https://github.com/Aryan-st11
 - Email: choudharyatat08@gmail.com
