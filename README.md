@@ -2,7 +2,7 @@
 
  B.Tech CSE (IoT) Student  
  Open Source & Web Development Enthusiast  
- GSoC 2026 Aspirant  
+ GSoC 2027 Aspirant  
 
 ---
 
@@ -11,7 +11,7 @@ I am a Computer Science undergraduate with a strong interest in **open-source de
 I enjoy building web-based projects and contributing to collaborative software that makes a real-world impact.
 
 Currently, I am:
-- Preparing for **Google Summer of Code 2026**
+- Preparing for **Google Summer of Code 2027**
 - Strengthening my skills in **JavaScript & Python**
 - Exploring open-source communities and codebases
 
@@ -28,7 +28,7 @@ Currently, I am:
 ##  Open Source Goals
 - Make consistent contributions to open-source projects
 - Collaborate with global developer communities
-- Get selected as a **GSoC 2026 Contributor**
+- Get selected as a **GSoC 2027 Contributor**
 
 ---
 
